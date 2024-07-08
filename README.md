@@ -1,4 +1,4 @@
-# Reporting: wrangle_report - We Rate Dogs Project
+# We Rate Dogs Project
 
 ## Introduction
 The dataset analyzed and visualized in this wrangling project is the tweet archive of Twitter user @dog_rates, known as WeRateDogs. WeRateDogs humorously rates people's dogs, with ratings typically having a denominator of 10 and numerators often greater than 10 (e.g., 11/10, 12/10).
